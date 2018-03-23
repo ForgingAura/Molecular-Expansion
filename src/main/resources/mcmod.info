@@ -1,0 +1,16 @@
+[
+{
+  "modid": "molecular_expansion",
+  "name": "Molecular Expansion",
+  "description": "Make science with atoms in minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AlasDiablo"],
+  "credits": "The Forge and FML guys, for making this forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
