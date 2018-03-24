@@ -1,6 +1,8 @@
 itemGroup.molecularAtoms=ME - Atomes
 itemGroup.molecularExpansion=Molecular Expansion
 
+item.test_tube.name=Tube a essai
+
 item.hydrogene.name=Hydrogène
 tooltip.hydrogene.gmol=Masse Molaire 1.0 g/mol
 tooltip.hydrogene.proton=Nombre de Protons 1
@@ -70,6 +72,64 @@ tooltip.neon.proton=Nombre de Protons 10
 tooltip.neon.neutron=Nombre de Neutrons 10
 tooltip.neon.fusion=Point de Fusion -248.59°C
 tooltip.neon.ebullition=Point d'Ebullition -246.05°C
+
+item.sodium.name=Sodium
+tooltip.sodium.gmol=Masse Molaire 23.0 g/mol
+tooltip.sodium.proton=Nombre de Protons 11
+tooltip.sodium.neutron=Nombre de Neutrons 12
+tooltip.sodium.fusion=Point de Fusion 97.79°C
+tooltip.sodium.ebullition=Point d'Ebullition 882.94°C
+
+item.magnesium.name=Magnésium
+tooltip.magnesium.gmol=Masse Molaire 24.3 g/mol
+tooltip.magnesium.proton=Nombre de Protons 12
+tooltip.magnesium.neutron=Nombre de Neutrons 12
+tooltip.magnesium.fusion=Point de Fusion 650°C
+tooltip.magnesium.ebullition=Point d'Ebullition 1090°C
+
+item.aluminium.name=Aluminium
+tooltip.aluminium.gmol=Masse Molaire 27.0 g/mol
+tooltip.aluminium.proton=Nombre de Protons 13
+tooltip.aluminium.neutron=Nombre de Neutrons 14
+tooltip.aluminium.fusion=Point de Fusion 660.32°C
+tooltip.aluminium.ebullition=Point d'Ebullition 2519°C
+
+item.silicium.name=Silicium
+tooltip.silicium.gmol=Masse Molaire 28.1 g/mol
+tooltip.silicium.proton=Nombre de Protons 14
+tooltip.silicium.neutron=Nombre de Neutrons 14
+tooltip.silicium.fusion=Point de Fusion 1414°C
+tooltip.silicium.ebullition=Point d'Ebullition 3265°C
+
+item.phosphore.name=Phosphore
+tooltip.phosphore.gmol=Masse Molaire 31.0 g/mol
+tooltip.phosphore.proton=Nombre de Protons 15
+tooltip.phosphore.neutron=Nombre de Neutrons 16
+tooltip.phosphore.fusion=Point de Fusion 44.15°C
+tooltip.phosphore.ebullition=Point d'Ebullition 280.5°C
+
+item.soufre.name=Soufre
+tooltip.soufre.gmol=Masse Molaire 32.1 g/mol
+tooltip.soufre.proton=Nombre de Protons 16
+tooltip.soufre.neutron=Nombre de Neutrons 16
+tooltip.soufre.fusion=Point de Fusion 95.2°C
+tooltip.soufre.ebullition=Point d'Ebullition 444.61°C
+
+item.chlore.name=Chlore
+tooltip.chlore.gmol=Masse Molaire 35.5 g/mol
+tooltip.chlore.proton=Nombre de Protons 17
+tooltip.chlore.neutron=Nombre de Neutrons 18
+tooltip.chlore.fusion=Point de Fusion -101.5°C
+tooltip.chlore.ebullition=Point d'Ebullition -34.04°C
+
+item.argon.name=Argon
+tooltip.argon.gmol=Masse Molaire 39.9 g/mol
+tooltip.argon.proton=Nombre de Protons 18
+tooltip.argon.neutron=Nombre de Neutrons 22
+tooltip.argon.fusion=Point de Fusion -189.34°C
+tooltip.argon.ebullition=Point d'Ebullition -185.85°C
+
+
 
 
 

@@ -1,0 +1,7 @@
+﻿{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "molecular_expansion:items/test_tube_gas",
+        "layer1": "molecular_expansion:items/periodic_table_name/cl"
+    }
+}

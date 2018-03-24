@@ -15,7 +15,7 @@ public class Molecular_Expansion {
 
     public static final String MOD_ID = "molecular_expansion";
     public static final String MOD_NAME = "Molecular Expansion";
-    public static final String MOD_VERSION = "alpha-0.0.1";
+    public static final String MOD_VERSION = "alpha-0.0.4";
     public static final String CLIENT_PROXY = "fr.forgingaura.molecular_expansion.proxy.ClientProxy";
     public static final String SERVER_PROXY = "fr.forgingaura.molecular_expansion.proxy.ServerProxy";
 

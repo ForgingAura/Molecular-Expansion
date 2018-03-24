@@ -1,0 +1,130 @@
+itemGroup.molecularAtoms=ME - Atoms
+itemGroup.molecularExpansion=Molecular Expansion
+
+item.test_tube.name=Test Tube
+
+item.hydrogene.name=Hydrogen
+tooltip.hydrogene.gmol=Molar Mass 1.0 g/mol
+tooltip.hydrogene.proton=Number of Protons 1
+tooltip.hydrogene.neutron=Nuber of Neutrons 0
+tooltip.hydrogene.fusion=Melting Point -259.16°C
+tooltip.hydrogene.ebullition=Boiling Point -252.88°C
+
+item.helium.name=Helium
+tooltip.helium.gmol=Molar Mass 4.0 g/mol
+tooltip.helium.proton=Number of Protons 2
+tooltip.helium.neutron=Nuber of Neutrons 2
+tooltip.helium.fusion=Melting Point ---
+tooltip.helium.ebullition=Boiling Point -268.92°C
+
+item.lithium.name=Lithium
+tooltip.lithium.gmol=Molar Mass 6.9 g/mol
+tooltip.lithium.proton=Number of Protons 3
+tooltip.lithium.neutron=Nuber of Neutrons 4
+tooltip.lithium.fusion=Melting Point 180.5°C
+tooltip.lithium.ebullition=Boiling Point 1342°C
+
+item.beryllium.name=Beryllium
+tooltip.beryllium.gmol=Molar Mass 9.0 g/mol
+tooltip.beryllium.proton=Number of Protons 4
+tooltip.beryllium.neutron=Nuber of Neutrons 5
+tooltip.beryllium.fusion=Melting Point 1287°C
+tooltip.beryllium.ebullition=Boiling Point 2468°C
+
+item.bore.name=Boron
+tooltip.bore.gmol=Molar Mass 10.8 g/mol
+tooltip.bore.proton=Number of Protons 5
+tooltip.bore.neutron=Nuber of Neutrons 6
+tooltip.bore.fusion=Melting Point 2077°C
+tooltip.bore.ebullition=Boiling Point 4000°C
+
+item.carbone.name=Carbon
+tooltip.carbone.gmol=Molar Mass 12.0 g/mol
+tooltip.carbone.proton=Number of Protons 6
+tooltip.carbone.neutron=Nuber of Neutrons 6
+tooltip.carbone.fusion=Melting Point ---
+tooltip.carbone.ebullition=Boiling Point 3825°C
+
+item.azote.name=Nitrogen
+tooltip.azote.gmol=Molar Mass 14.0 g/mol
+tooltip.azote.proton=Number of Protons 7
+tooltip.azote.neutron=Nuber of Neutrons 7
+tooltip.azote.fusion=Melting Point -210.0°C
+tooltip.azote.ebullition=Boiling Point -195.80°C
+
+item.oxygene.name=Oxygen
+tooltip.oxygene.gmol=Molar Mass 16.0 g/mol
+tooltip.oxygene.proton=Number of Protons 8
+tooltip.oxygene.neutron=Nuber of Neutrons 8
+tooltip.oxygene.fusion=Melting Point -218.79°C
+tooltip.oxygene.ebullition=Boiling Point -182.96°C
+
+item.fluor.name=Fluorine
+tooltip.fluor.gmol=Molar Mass 19.0 g/mol
+tooltip.fluor.proton=Number of Protons 9
+tooltip.fluor.neutron=Nuber of Neutrons 10
+tooltip.fluor.fusion=Melting Point -219.67°C
+tooltip.fluor.ebullition=Boiling Point -188.12°C
+
+item.neon.name=Neon
+tooltip.neon.gmol=Molar Mass 20.2 g/mol
+tooltip.neon.proton=Number of Protons 10
+tooltip.neon.neutron=Nuber of Neutrons 10
+tooltip.neon.fusion=Melting Point -248.59°C
+tooltip.neon.ebullition=Boiling Point -246.05°C
+
+item.sodium.name=Sodium
+tooltip.sodium.gmol=Molar Mass 23.0 g/mol
+tooltip.sodium.proton=Number of Protons 11
+tooltip.sodium.neutron=Nuber of Neutrons 12
+tooltip.sodium.fusion=Melting Point 97.79°C
+tooltip.sodium.ebullition=Boiling Point 882.94°C
+
+item.magnesium.name=Magnesium
+tooltip.magnesium.gmol=Molar Mass 24.3 g/mol
+tooltip.magnesium.proton=Number of Protons 12
+tooltip.magnesium.neutron=Nuber of Neutrons 12
+tooltip.magnesium.fusion=Melting Point 650°C
+tooltip.magnesium.ebullition=Boiling Point 1090°C
+
+item.aluminium.name=Aluminium
+tooltip.aluminium.gmol=Molar Mass 27.0 g/mol
+tooltip.aluminium.proton=Number of Protons 13
+tooltip.aluminium.neutron=Nuber of Neutrons 14
+tooltip.aluminium.fusion=Melting Point 660.32°C
+tooltip.aluminium.ebullition=Boiling Point 2519°C
+
+item.silicium.name=Silicon
+tooltip.silicium.gmol=Molar Mass 28.1 g/mol
+tooltip.silicium.proton=Number of Protons 14
+tooltip.silicium.neutron=Nuber of Neutrons 14
+tooltip.silicium.fusion=Melting Point 1414°C
+tooltip.silicium.ebullition=Boiling Point 3265°C
+
+item.phosphore.name=Phosphorus
+tooltip.phosphore.gmol=Molar Mass 31.0 g/mol
+tooltip.phosphore.proton=Number of Protons 15
+tooltip.phosphore.neutron=Nuber of Neutrons 16
+tooltip.phosphore.fusion=Melting Point 44.15°C
+tooltip.phosphore.ebullition=Boiling Point 280.5°C
+
+item.soufre.name=Sulfur
+tooltip.soufre.gmol=Molar Mass 32.1 g/mol
+tooltip.soufre.proton=Number of Protons 16
+tooltip.soufre.neutron=Nuber of Neutrons 16
+tooltip.soufre.fusion=Melting Point 95.2°C
+tooltip.soufre.ebullition=Boiling Point 444.61°C
+
+item.chlore.name=Chlorine
+tooltip.chlore.gmol=Molar Mass 35.5 g/mol
+tooltip.chlore.proton=Number of Protons 17
+tooltip.chlore.neutron=Nuber of Neutrons 18
+tooltip.chlore.fusion=Melting Point -101.5°C
+tooltip.chlore.ebullition=Boiling Point -34.04°C
+
+item.argon.name=Argon
+tooltip.argon.gmol=Molar Mass 39.9 g/mol
+tooltip.argon.proton=Number of Protons 18
+tooltip.argon.neutron=Nuber of Neutrons 22
+tooltip.argon.fusion=Melting Point -189.34°C
+tooltip.argon.ebullition=Boiling Point -185.85°C

@@ -1,6 +1,7 @@
 package fr.forgingaura.molecular_expansion.proxy;
 
 import fr.forgingaura.molecular_expansion.init.AtomsItems;
+import fr.forgingaura.molecular_expansion.init.MainsItems;
 
 public class ServerProxy implements CommonProxy {
 
@@ -8,5 +9,7 @@ public class ServerProxy implements CommonProxy {
     public void preInit() {
         AtomsItems.init();
         AtomsItems.register();
+        MainsItems.init();
+        MainsItems.register();
     }
 }

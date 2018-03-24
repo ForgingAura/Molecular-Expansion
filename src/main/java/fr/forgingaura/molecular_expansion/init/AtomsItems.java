@@ -22,6 +22,15 @@ public class AtomsItems { //Name of all atoms is in french in this code
     public static Item fluor;
     public static Item neon;
 
+    public static Item sodium;
+    public static Item magnesium;
+    public static Item aluminium;
+    public static Item silicium;
+    public static Item phosphore;
+    public static Item soufre;
+    public static Item chlore;
+    public static Item argon;
+
     public static void init() {
         hydrogene = new AtomItem("hydrogene");
         helium = new AtomItem("helium");
@@ -34,6 +43,14 @@ public class AtomsItems { //Name of all atoms is in french in this code
         fluor = new AtomItem("fluor");
         neon = new AtomItem("neon");
 
+        sodium = new AtomItem("sodium");
+        magnesium = new AtomItem("magnesium");
+        aluminium = new AtomItem("aluminium");
+        silicium = new AtomItem("silicium");
+        phosphore = new AtomItem("phosphore");
+        soufre = new AtomItem("soufre");
+        chlore = new AtomItem("chlore");
+        argon = new AtomItem("argon");
     }
 
     public static void register() {
@@ -48,6 +65,15 @@ public class AtomsItems { //Name of all atoms is in french in this code
         registerItem(fluor);
         registerItem(neon);
 
+        registerItem(sodium);
+        registerItem(magnesium);
+        registerItem(aluminium);
+        registerItem(silicium);
+        registerItem(phosphore);
+        registerItem(soufre);
+        registerItem(chlore);
+        registerItem(argon);
+
     }
 
     public static void registerRenders() {
@@ -61,6 +87,15 @@ public class AtomsItems { //Name of all atoms is in french in this code
         registerRender(oxygene);
         registerRender(fluor);
         registerRender(neon);
+
+        registerRender(sodium);
+        registerRender(magnesium);
+        registerRender(aluminium);
+        registerRender(silicium);
+        registerRender(phosphore);
+        registerRender(soufre);
+        registerRender(chlore);
+        registerRender(argon);
     }
 
     public static void registerItem(Item item) {

@@ -1,0 +1,16 @@
+-Alpha0.0.4
+add 8 new atoms (alasdiablo)
+add test tube (alasdiablo)
+add english lang in the mods (alasdiablo)
+------------------------------------------------------------------
+-Alpha0.0.3
+add texture of all present content (alasdiablo)
+add creative tab (alasdiablo)
+add information for atoms in french (alasdiablo)
+------------------------------------------------------------------
+-Alpha0.0.2
+start code of 10 first atoms (alasdiablo)
+------------------------------------------------------------------
+-Alpha0.0.1
+add main class (alasdiablo)
+add all proxy (alasdiablo)
