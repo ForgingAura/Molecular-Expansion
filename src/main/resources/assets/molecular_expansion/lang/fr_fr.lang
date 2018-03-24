@@ -1,0 +1,87 @@
+itemGroup.molecularAtoms=ME - Atomes
+itemGroup.molecularExpansion=Molecular Expansion
+
+item.hydrogene.name=Hydrogène
+tooltip.hydrogene.gmol=Masse Molaire 1.0 g/mol
+tooltip.hydrogene.proton=Nombre de Protons 1
+tooltip.hydrogene.neutron=Nombre de Neutrons 0
+tooltip.hydrogene.fusion=Point de Fusion -259.16°C
+tooltip.hydrogene.ebullition=Point d'Ebullition -252.88°C
+
+item.helium.name=Hélium
+tooltip.helium.gmol=Masse Molaire 4.0 g/mol
+tooltip.helium.proton=Nombre de Protons 2
+tooltip.helium.neutron=Nombre de Neutrons 2
+tooltip.helium.fusion=Point de Fusion ---
+tooltip.helium.ebullition=Point d'Ebullition -268.92°C
+
+item.lithium.name=Lithium
+tooltip.lithium.gmol=Masse Molaire 6.9 g/mol
+tooltip.lithium.proton=Nombre de Protons 3
+tooltip.lithium.neutron=Nombre de Neutrons 4
+tooltip.lithium.fusion=Point de Fusion 180.5°C
+tooltip.lithium.ebullition=Point d'Ebullition 1342°C
+
+item.beryllium.name=Béryllium
+tooltip.beryllium.gmol=Masse Molaire 9.0 g/mol
+tooltip.beryllium.proton=Nombre de Protons 4
+tooltip.beryllium.neutron=Nombre de Neutrons 5
+tooltip.beryllium.fusion=Point de Fusion 1287°C
+tooltip.beryllium.ebullition=Point d'Ebullition 2468°C
+
+item.bore.name=Bore
+tooltip.bore.gmol=Masse Molaire 10.8 g/mol
+tooltip.bore.proton=Nombre de Protons 5
+tooltip.bore.neutron=Nombre de Neutrons 6
+tooltip.bore.fusion=Point de Fusion 2077°C
+tooltip.bore.ebullition=Point d'Ebullition 4000°C
+
+item.carbone.name=Carbone
+tooltip.carbone.gmol=Masse Molaire 12.0 g/mol
+tooltip.carbone.proton=Nombre de Protons 6
+tooltip.carbone.neutron=Nombre de Neutrons 6
+tooltip.carbone.fusion=Point de Fusion ---
+tooltip.carbone.ebullition=Point d'Ebullition 3825°C
+
+item.azote.name=Azote
+tooltip.azote.gmol=Masse Molaire 14.0 g/mol
+tooltip.azote.proton=Nombre de Protons 7
+tooltip.azote.neutron=Nombre de Neutrons 7
+tooltip.azote.fusion=Point de Fusion -210.0°C
+tooltip.azote.ebullition=Point d'Ebullition -195.80°C
+
+item.oxygene.name=Oxygène
+tooltip.oxygene.gmol=Masse Molaire 16.0 g/mol
+tooltip.oxygene.proton=Nombre de Protons 8
+tooltip.oxygene.neutron=Nombre de Neutrons 8
+tooltip.oxygene.fusion=Point de Fusion -218.79°C
+tooltip.oxygene.ebullition=Point d'Ebullition -182.96°C
+
+item.fluor.name=Fluor
+tooltip.fluor.gmol=Masse Molaire 19.0 g/mol
+tooltip.fluor.proton=Nombre de Protons 9
+tooltip.fluor.neutron=Nombre de Neutrons 10
+tooltip.fluor.fusion=Point de Fusion -219.67°C
+tooltip.fluor.ebullition=Point d'Ebullition -188.12°C
+
+item.neon.name=Néon
+tooltip.neon.gmol=Masse Molaire 20.2 g/mol
+tooltip.neon.proton=Nombre de Protons 10
+tooltip.neon.neutron=Nombre de Neutrons 10
+tooltip.neon.fusion=Point de Fusion -248.59°C
+tooltip.neon.ebullition=Point d'Ebullition -246.05°C
+
+
+
+
+
+
+
+
+
+item..name=
+tooltip..gmol=Masse Molaire  g/mol
+tooltip..proton=Nombre de Protons 
+tooltip..neutron=Nombre de Neutrons 
+tooltip..fusion=Point de Fusion °C
+tooltip..ebullition=Point d'Ebullition °C
