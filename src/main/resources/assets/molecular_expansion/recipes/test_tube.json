@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A A",
+    "A A",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "type": "minecraft:item",
+    "item": "molecular_expansion:test_tube"
+  }
+}

@@ -1,3 +1,8 @@
+-Alpha0.0.5
+add Molecular Decomposer (alasdiablo)
+add 2 recipe for Molecular Decomposer 1 for test and a normal you can make carbon with coal and sulfur with gunpower (alasdiablo)
+add recipe for test tube (alasdiablo)
+------------------------------------------------------------------
 -Alpha0.0.4
 add 8 new atoms (alasdiablo)
 add test tube (alasdiablo)

@@ -1,0 +1,11 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"up": "molecular_expansion:blocks/molecular_decomposer_side",
+		"down": "molecular_expansion:blocks/molecular_decomposer_side",
+		"north": "molecular_expansion:blocks/molecular_decomposer_front_on",
+		"east": "molecular_expansion:blocks/molecular_decomposer_side",
+		"south": "molecular_expansion:blocks/molecular_decomposer_side",
+		"west": "molecular_expansion:blocks/molecular_decomposer_side"
+	}
+}

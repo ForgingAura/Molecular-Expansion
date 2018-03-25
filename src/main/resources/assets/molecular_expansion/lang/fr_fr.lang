@@ -1,6 +1,9 @@
 itemGroup.molecularAtoms=ME - Atomes
 itemGroup.molecularExpansion=Molecular Expansion
 
+tile.molecular_decomposer.name=Décomposeur Moléculair
+container.molecular_decomposer=Décomposeur Moléculair
+
 item.test_tube.name=Tube a essai
 
 item.hydrogene.name=Hydrogène

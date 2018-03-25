@@ -31,6 +31,8 @@ public class AtomsItems { //Name of all atoms is in french in this code
     public static Item chlore;
     public static Item argon;
 
+
+
     public static void init() {
         hydrogene = new AtomItem("hydrogene");
         helium = new AtomItem("helium");
